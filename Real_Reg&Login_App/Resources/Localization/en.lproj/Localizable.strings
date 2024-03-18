@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  Real_Reg&Login_App
+
+  Created by Mohamed Abd Elhakam on 06/03/2024.
+  
+*/
+
+"Signup.title" = "Sign Up";
+"Signup.textfield.name" = "Name";
+"Signup.textfield.phone" = "Phone";
+"Signup.textfield.email" = "Email";
+"Signup.textfield.password" = "Password";
+"Signup.button.signup" = "Create account";
+"Signup.text.signin" = "Already have an account";
+
+"Signup.image.text" = "Your reset begins here. ";
+"Signup.button.apple" = "Continue with Apple";
+"Signup.button.google" = "Continue with Google";
+"Signup.button.email" = "Sign In with Email";
+"Signup.button.signup" = "Sign UP";
+"Signup.text.notmember" = "Not a member?";
+"Signup.button.signin" = "Sign In";
+
+"Login.title" = "Login";
+"Login.subtitle" = "Use the same method that you created your account with.";
+"Login.textfield.email" = "Email";
+"Login.textfield.password" = "Password";
+"Login.button.login" = "Login";
+"Login.button.forgorPassword" = "Forgot Password?";
+"Login.text.signup" = "Don’t have an account?";
